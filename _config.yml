@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Omar Amer"
   avatar           : "profile.png"
-  bio              : "Hi! I am a 4th year PhD candidate at the University of Connecticut studying Quantum Information Theory. My research interests include quantum cryptography, quantum networks, quantum computing, and quantum complexity theory. I received B.S. in Computer from UConn in 2018. I am interested in internships and positions in industry working on making quantum computing a reality! If you are interested in that too (and an employer!) let's talk!"
+  bio              : "Hi! I am a 4th year PhD candidate at the University of Connecticut studying Quantum Information Theory. My research interests include quantum cryptography, quantum networks, quantum computing, and quantum complexity theory. I received B.S. in Computer from UConn in 2018. ~I am interested in internships and positions in industry working on making quantum computing a reality~! If you are interested in that too (and an employer!) let's talk!"
   location         : "Bloomfield, CT"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=5CDt4fIAAAAJ&hl=en"
+  email            : "omar.amer@uconn.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "omaramer"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
